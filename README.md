@@ -2,7 +2,7 @@
 
 A backend authentication API built with FastAPI, SQLAlchemy, JWT authentication, and MySQL.
 
-This repository is a reconstructed and modernized version of an authentication backend originally developed in 2024. The project was rebuilt from preserved source material and reorganized into a cleaner production-style structure for portfolio and learning purposes.
+This repository is a reconstructed and modernized version of an authentication backend originally developed in 2024. The project was rebuilt from preserved source material and reorganized into a cleaner production-style structure for portfolio and learning purposes. It is intended for educational and portfolio purposes. 
 
 ---
 
