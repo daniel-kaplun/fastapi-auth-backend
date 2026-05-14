@@ -159,11 +159,10 @@ http://127.0.0.1:8000/docs
 
 ## Notes
 
-This project focuses on backend authentication architecture and security fundamentals, including:
+This project focuses on backend authentication design and security fundamentals, including:
 
 - token-based authentication
 - password hashing
 - refresh token validation
-- database persistence
-- route/service separation
-- environment-based configuration
+- database integration
+- route/service management
