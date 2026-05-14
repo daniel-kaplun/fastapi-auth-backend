@@ -43,11 +43,9 @@ fastapi-auth-backend/
 │   ├── schemas/
 │   └── services/
 │
-├── .env.example
 ├── .gitignore
 ├── requirements.txt
-├── README.md
-└── run.py
+└── README.md
 ```
 
 ---
